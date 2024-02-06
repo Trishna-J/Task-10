@@ -1,0 +1,98 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+body{
+   background-color: hsl(185, 75%, 39%);
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    margin-top:120px;
+    width: 350px;
+    height:410px;
+    background-color: white;
+    border-radius: 10px ;
+}
+.img1{
+ 
+    width: 50px;
+    height:100px;
+    border-radius: 10px 0 10px 0 ;
+}
+
+   
+.victor{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position:relative;
+    left:130px;bottom:3px;
+border: 4px solid white;
+}
+h5{
+    position:relative;
+    left:140px;
+    top:10px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+}
+p{
+    position:relative;
+    left:160px;
+    top:20px;
+    color: hsl(0, 0%, 59%);
+    font-family: 'Kumbh Sans', sans-serif;
+font-size:small;
+
+
+}
+.horizontal{
+    border-top: 1px solid  hsl(0, 0%, 59%);
+    margin-top: 50px;
+    height: 10px;
+}
+.one{
+    margin-left: 50px;
+    margin-top: 20px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+
+}
+.two{
+    position: relative;
+    left:150px;
+    bottom:50px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+}
+.three{
+    position: relative;
+    left:250px;
+    bottom:100px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+}
+.tri{
+    color:hsl(0, 0%, 59%);
+    position: relative;
+
+   font-family: 'Kumbh Sans', sans-serif;
+   font-size: small;
+}
+.tri1{
+    color:hsl(0, 0%, 59%);
+   position: relative;
+ 
+   right: 15px;
+   font-family: 'Kumbh Sans', sans-serif;
+   font-size: small;
+}
+.tri2{
+    color:hsl(0, 0%, 59%);
+   
+}
